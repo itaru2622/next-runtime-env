@@ -61,7 +61,7 @@
     "whatwg-fetch": "^3.6.20"
   },
   "peerDependencies": {
-    "next": "^14",
-    "react": "^18"
+    "next": "^15",
+    "react": "^19"
   }
 }
